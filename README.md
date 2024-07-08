@@ -1,7 +1,7 @@
 # Traffic-Flow-Optimization-for-Stadtplannungsamt-Magdeburg
 Traffic Flow Optimization project for Magdeburg's City Planning Office. This repository contains a simulation model and research-backed recommendations to alleviate congestion and improve traffic flow within the city.
 
-Traffic Flow Optimization for Stadtplannungsamt Magdeburg
+# Traffic Flow Optimization for Stadtplannungsamt Magdeburg
 This project enhances traffic flow efficiency and reduces congestion in Magdeburg, Germany. It uses a traffic simulation model and data analysis to recommend immediate and long-term traffic planning improvements.
 
 Project Overview
